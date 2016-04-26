@@ -1,3 +1,0 @@
-gulp for beginners.
-
-Following this tutorial: https://css-tricks.com/gulp-for-beginners/
