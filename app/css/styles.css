@@ -1,2 +1,12 @@
 .testing {
   width: 71.42857%; }
+
+body {
+  width: 80%;
+  margin: 10% auto;
+  background-color: #0080ff;
+  color: #fff; }
+  body a {
+    color: gold; }
+  body h1 {
+    font-family: monospace; }

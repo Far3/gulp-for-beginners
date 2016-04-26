@@ -2,3 +2,19 @@
 .testing {
 	width: percentage(5/7);
 }
+
+$blue: #0080ff;
+
+
+body {
+	width: 80%;
+	margin:10% auto;
+	background-color: $blue;
+	color: #fff;
+	a {
+		color: gold;
+	}
+	h1 {
+		font-family: monospace;
+	}
+}
